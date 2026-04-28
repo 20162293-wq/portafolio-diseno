@@ -76,14 +76,14 @@ section {
 }
 /* Menú Superior */
 .menu-superior {
-    background-color: #6994bf; /* Azul - Así es visible */
+    background-color: #5b82a8; /* Azul - Así es visible */
     padding: 15px 0;
     position: sticky; 
     top: 0;
     z-index: 1000;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Sombra para que resalte sobre el fondo */
     width: 100%;
-    border-bottom: 8px solid #4c6b8a;
+    border-bottom: 8px solid #3e5a75;
 }
 
 .contenedor-menu {
